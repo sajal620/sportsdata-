@@ -8,7 +8,7 @@
   "matches": [
     {
       "status": "LIVE",
-      "Category": "Boxing",
+      "Category": "WWE",
       "event_name": "UFC Vs UFC",
       "eventInfo": {
         "teamA": "UFC",
@@ -32,7 +32,7 @@
     },
     {
       "status": "LIVE",
-      "Category": "Boxing",
+      "Category": "WWE",
       "event_name": "SmackDown Vs SmackDown",
       "eventInfo": {
         "teamA": "SmackDown",
