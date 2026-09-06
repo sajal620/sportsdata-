@@ -68,19 +68,7 @@
           "channel_name": "HD SERVER 2 ",
           "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
         },
-        {
-          "channel_name": "XTREME FHD ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD BOX 1",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD BOX 2",
-          "stream_url": ""
-        },
-        {
+       {
           "channel_name": "TV WWE ALT",
           "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
         },
@@ -181,18 +169,6 @@
         {
           "channel_name": "STREAM + FHD",
           "stream_url": "https://edgestream2.pro/hls/yetehznecs37.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-        },
-        {
-          "channel_name": "XTREME FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUICK ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUICK 2 ",
-          "stream_url": ""
         }
       ]
     },
@@ -221,18 +197,6 @@
         {
           "channel_name": "STREAM + FHD",
           "stream_url": "https://edgestream2.pro/hls/ysvbxwnbc38.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-        },
-        {
-          "channel_name": "XTREME FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUICK ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUICK 2 ",
-          "stream_url": ""
         }
       ]
     },
@@ -261,18 +225,6 @@
         {
           "channel_name": "STREAM + FHD",
           "stream_url": "https://edgestream2.pro/hls/jnknjfzbk35.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-        },
-        {
-          "channel_name": "XTREME FHD",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUICK ",
-          "stream_url": ""
-        },
-        {
-          "channel_name": "HD QUICK 2 ",
-          "stream_url": ""
         }
       ]
     },
